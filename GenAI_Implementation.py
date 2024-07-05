@@ -146,5 +146,13 @@ GPU Implementation : Fused operations
                     Memory efficiency
 
 FPGA : Custom FPGA Hardware
+"""
+"""
+Gumloop 
+
+It automate your LinkedIn posts without writing a single line of code using Gumloop! 
+seamless LinkedIn post scheduling and management. 
+
+Gumloop: https://www.gumloop.com/pipeline?work...
 
 """
